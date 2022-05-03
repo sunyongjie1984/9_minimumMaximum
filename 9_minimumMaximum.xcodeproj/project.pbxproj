@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13160DB3282120C200634997 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160DB2282120C200634997 /* main.cpp */; };
+		13160DBA282120E100634997 /* MinimumMaximum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 13160DB9282120E100634997 /* MinimumMaximum.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		13160DAF282120C200634997 /* 9_minimumMaximum */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 9_minimumMaximum; sourceTree = BUILT_PRODUCTS_DIR; };
-		13160DB2282120C200634997 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		13160DB9282120E100634997 /* MinimumMaximum.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = MinimumMaximum.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		13160DB1282120C200634997 /* 9_minimumMaximum */ = {
 			isa = PBXGroup;
 			children = (
-				13160DB2282120C200634997 /* main.cpp */,
+				13160DB9282120E100634997 /* MinimumMaximum.cpp */,
 			);
 			path = 9_minimumMaximum;
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13160DB3282120C200634997 /* main.cpp in Sources */,
+				13160DBA282120E100634997 /* MinimumMaximum.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
